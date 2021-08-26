@@ -6,7 +6,7 @@
 * [America’s gender-fluid future, in 100 years of baby name trends](https://qz.com/1237944) – Quartz
 * [Explore a detailed view of the Mueller report](https://www.axios.com/explore-a-detailed-version-of-the-mueller-report-5f7cab5b-9c53-46bc-abaa-bd6b7b3e6d66.html) – Axios
 * [Tea if by sea, cha if by land: Why the world only has two words for tea](https://qz.com/1176962) – Quartz
-* [One chart that shows how much worse income inequality is in America than Europe](https://www.vox.com/2018/7/29/17627134/income-inequality-chart)
+* [One chart that shows how much worse income inequality is in America than Europe](https://www.vox.com/2018/7/29/17627134/income-inequality-chart) – Vox
 * [How do you draw a circle? We analyzed 100,000 drawings to show how culture shapes our instincts](https://qz.com/994486) – Quartz
 * [10,000 words ranked according to their Trumpiness](https://qz.com/836813) – Quartz
 * [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) – WaPo
